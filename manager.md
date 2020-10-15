@@ -13,7 +13,7 @@ redirect_from:
 I use this as an initial brain dump for new engineering managers I work with.
 
 ## Basics
-- [Growing an engineering manager]({% post_url 2020-10-15-growing-an-engineering-manager %})
+- [Growing an engineering manager]({{ site.baseurl }}{% post_url 2020-10-15-growing-an-engineering-manager %})
 
 ## Values
 
