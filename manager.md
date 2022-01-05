@@ -17,6 +17,8 @@ I use this as an initial brain dump for new engineering managers I work with.
 
 ## Values
 
+This is a sample
+
 ## Communication
 
 ## Estimates
