@@ -1,35 +1,25 @@
 source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll", "~> 4.3"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+
+# Use the GitHub Pages gem to keep dependency versions compatible with GitHub Pages.
+# If you prefer to control Jekyll version yourself, replace this with `gem "jekyll", ">= 4.4"`
+gem "github-pages", group: :jekyll_plugins
+
+# Required on newer Rubies to provide WEBrick for `jekyll serve`
+gem "webrick", "~> 1.8"
+
+# Optional: add any gems you want outside the Jekyll plugins group here.
+
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate-v2"      # v2 pagination (replaces legacy jekyll-paginate)
+  gem "jekyll-feed"             # RSS feed for posts
+  gem "jekyll-seo-tag"          # SEO meta tags
+  gem "jekyll-sitemap"          # sitemap.xml
+  gem "jekyll-include-cache"    # cache includes
+  gem "jekyll-remote-theme"     # use remote themes
+  gem "jekyll-redirect-from"    # redirect_from support
 end
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
+# On Windows/JRuby include tzinfo-data
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
-
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
-gem "jekyll-remote-theme"
-gem "jekyll-paginate"
-gem "jekyll-redirect-from"
-gem "jekyll-sitemap"
-gem "jekyll-include-cache"

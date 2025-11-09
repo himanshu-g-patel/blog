@@ -13,7 +13,7 @@ I’m always looking for prospective new engineering managers. As a manager, hav
 
 # The Ideal Candidate
 
-When I think about who might be a good first-time manager, I’m looking for experience and leadership.
+When considering candidates for a first-time manager role, I look for solid experience paired with demonstrated leadership.
 
 Experience might look like having been at companies and on teams of various sizes, and with various seniority compositions. If someone has 10 overall years of experience, they have probably worked for at least 2-3 companies. They are more likely to know what “good” and “bad” look like, in terms of team health and performance.
 

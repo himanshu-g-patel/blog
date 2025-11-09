@@ -7,13 +7,13 @@ toc_label: "On this page"
 permalink: /manager/
 redirect_from:
   - /tag/manager/
-  - /tag/manager
 ---
 
 I use this as an initial brain dump for new engineering managers I work with.
 
 ## Basics
-- [Growing an engineering manager](/blog/2020/10/15/growing-an-engineering-manager.html)
+
+This is a sample
 
 ## Values
 
@@ -21,6 +21,12 @@ This is a sample
 
 ## Communication
 
+This is a sample
+
 ## Estimates
 
+This is a sample
+
 ## Other
+
+This is a sample

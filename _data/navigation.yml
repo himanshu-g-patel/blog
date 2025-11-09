@@ -1,7 +1,7 @@
 main:
+  - title: "About Me"
+    url: /about/
   - title: "Reading List"
     url: /reading-list/
   - title: "New Managers"
     url: /manager/
-  - title: "Resume"
-    url: /resume.pdf
