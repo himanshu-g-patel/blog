@@ -66,15 +66,6 @@ markdown: kramdown
 theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-# Add pagination v2 config:
 pagination:
   enabled: true
   per_page: 10
@@ -83,3 +74,11 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+
