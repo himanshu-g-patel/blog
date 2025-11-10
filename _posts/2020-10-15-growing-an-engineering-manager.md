@@ -9,9 +9,13 @@ header:
 excerpt: "So, you want to be a manager?"
 ---
 
+# Why Grow Managers?
+
 I’m always looking for prospective new engineering managers. As a manager, having bench strength in this area is useful in case there is a sudden vacancy due to promotion, attrition or internal movement. Sometimes, the right backup is an engineer already on the team.
 
-# The Ideal Candidate
+# Identifying Potential Managers
+
+## The Ideal Candidate
 
 When considering candidates for a first-time manager role, I look for solid experience paired with demonstrated leadership.
 
@@ -23,7 +27,7 @@ The ideal candidate has a demonstrated strength in both verbal and written commu
 
 The absolute gold standard for a first-time manager is that they are already effectively doing the job. It shows that this person takes initiative, and does not wait around for someone to bless them with authority, before going ahead and personally fixing something they think is broken. It shows a bias to action, and a strong sense of ownership. I would expect these folks to already be having more impact from their non-technical contributions vs their technical contributions.
 
-# Examine Motivations
+## Examine Motivations
 
 Assuming they are open to being a manager, I next look at their stated motivations.
 
@@ -33,9 +37,9 @@ If someone wants to become a manager so that they will have authority over other
 
 Some of the best prospective managers may be reluctant to lead others. They may be demonstrating leadership, be dissatisfied with their technical impact, and intrinsically motivated to coach others — look for these people!
 
-# Getting Started
+# Initial Steps and Resources
 
-If this is a path the person wants to pursue, I start them out with some self-learning resources. For example, I really like the [Manager Tools Podcast](https://www.manager-tools.com/) for an introduction to a variety of management concepts. I typically recommend that the person start thinking about a more formal personal organizational system, such as [Getting Things Done](https://www.amazon.com/gp/product/0142000280). Here’s a [reading list](https://chase-seibert.github.io/blog/reading-list/) of other books and articles.
+If this is a path the person wants to pursue, I start them out with some self-learning resources. For example, I really like the [Manager Tools Podcast](https://www.manager-tools.com/) for an introduction to a variety of management concepts. I typically recommend that the person start thinking about a more formal personal organizational system, such as [Getting Things Done](https://www.amazon.com/gp/product/0142000280). Here’s a [reading list](https://himanshu-g-patel.github.io/blog/reading-list/) of other books and articles.
 
 I may also ask them to write-up some thoughts about why they want to be a manager, and how they are hoping to grow. If an engineer is willing to sink hours of time in to listening, reading and discussing management fundamentals, they are demonstrating the growth mindset (and will) necessary to make the switch.
 
@@ -46,7 +50,7 @@ A prospective manager should start to form their own fledgling best practices on
 - Execution model
 - Career level framework
 
-# Looking for Opportunities
+# Creating Opportunities for Growth
 
 Once I’m convinced that this is the right direction for this person, I start looking for opportunities to get them exposure to management responsibilities.
 
@@ -67,3 +71,7 @@ One thing I can start doing proactively along with this candidate is preparing o
 Something which the candidate themselves can help with is coming up with a succession plan for their current role. If they are the tech lead of their team, how can they hand it off to someone else? Can we train that person up, now? They can also help make themselves dispensable. Delegate everything. As we get closer to an opportunity, stop coding. Stop doing code reviews. Identify an additional manager mentor.
 
 The ideal opportunity often looks like taking over as the manager of the team that they are currently on. In that case, they have excellent context on the people and problem space. But, it might come in the form of a different, very small team, or a new team. I know I will need to remain flexible about moving this person out of their current role, and that they will need to be flexible about team and timing.
+
+# Conclusion
+
+Growing an engineer into a manager is a rewarding process for everyone involved. It strengthens the team, provides a clear career path for individuals, and ensures the organization has a healthy leadership pipeline. By identifying the right candidates, nurturing their growth, and providing them with the right opportunities, you can cultivate the next generation of effective engineering leaders.
