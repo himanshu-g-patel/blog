@@ -9,7 +9,7 @@ permalink: /about/
 
 ## Hello!
 
-I'm Himanshu Patel, a Senior Engineering Leader based in San Francisco Bay Area, California. With over 15 years of experience in software engineering and leadership, I've had the privilege of building scalable platforms and leading high-performing teams at organizations like Workday and Wells Fargo.
+I'm Himanshu Patel, a Senior Engineering Leader based in San Francisco Bay Area, California. With over 18 years of experience in software engineering and leadership, I've had the privilege of building scalable platforms and leading high-performing teams at organizations like Workday and Wells Fargo.
 
 ## What I Do
 
