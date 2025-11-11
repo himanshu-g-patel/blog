@@ -6,7 +6,7 @@ A personal blog focused on distributed systems, platform engineering, engineerin
 
 ## About
 
-This blog shares insights from 15+ years of building scalable enterprise platforms, leading engineering teams, and solving complex technical challenges in fintech and enterprise SaaS. Topics include:
+This blog shares insights from 18 years of building scalable enterprise platforms, leading engineering teams, and solving complex technical challenges in fintech and enterprise SaaS. Topics include:
 
 - Distributed systems and data infrastructure
 - Platform engineering and cloud-native architecture
